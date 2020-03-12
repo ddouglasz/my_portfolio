@@ -1,0 +1,20 @@
+// @media (max-width: 800px)
+.navbar-contents {
+
+}
+
+
+.side-menu {
+  display: flex;
+	transform-origin: 0 0;
+  transform: rotate(90deg);
+  text-decoration: none;
+}
+
+.nav-space {
+  margin: 15px;
+  a {
+       text-decoration: none;
+     }
+}
+
